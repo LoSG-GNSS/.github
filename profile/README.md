@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+# English 🧑‍🔬
+The repository of the Laboratory of Space Geodesy and GNSS include open-source projects or solutions in the fild of geodesy, geodynamics, monitoring, GNSS technologies, etc. developed by scientists and members (students and graduate students). As well as a data bank of projects noted by the scientific group of laboratory.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Russian 🧑‍💻
+Репозиторий лаборатории космической геодезии и ГНСС включает в себя открытые проекты или решения в области геодезии, геодинамики, мониторинга, ГНСС-технологий и т.д.  разрабатываемые учеными, студентами и аспирантами. А также является банком проектов отмеченых научной группой лаборатории космической геодезии и ГНСС.
